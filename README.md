@@ -1,25 +1,4 @@
 ## Hi there 👋
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=10ncha&theme=radical)
 ![](https://komarev.com/ghpvc/?username=10ncha&color=green&abbreviated=true)
-
-
-<!--
-**10ncha/10ncha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
+![LeetCode Stats](https://leetcard.jacoblin.cool/not10ncha?theme=dark&font=Space%20Mono&ext=heatmap)
