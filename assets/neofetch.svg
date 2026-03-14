@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="530px" fill="#000000" rx="15"/>
+<foreignObject x="0" y="0" width="370" height="530">
+  <div xmlns="http://www.w3.org/1999/xhtml" style="
+    width: 370px;
+    height: 530px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  ">
+    <pre style="
+      font-family: monospace;
+      font-size: 10px;
+      color: #c9d1d9;
+      line-height: 1.2;
+      margin: 0;
+      white-space: pre;
+      transform: none;
+    ">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠹⢯⣍⠛⠛⠻⠷⣶⣤⣀⠀⠀⠀⠀⠀⡇⠙⠳⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⣧⡀⠀⠀⠀⠀⠉⠙⠷⣦⡀⢠⡇⠀⠀⠘⢷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⣀⣀⣀⣀⣠⣤⣤⣀⣤⣤⣤⣀⣀⠈⢳⣄⠀⠀⠀⠀⠀⠀⠀⠙⢺⡄⠀⠀⠀⠨⣿⣆⠀⠀⠀⣴⡀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠉⠻⣿⣍⠉⠉⠀⠀⠀⠀⠀⠀⠀⠈⠉⠑⠻⠦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢻⡄⣠⡾⠹⣷⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠈⠛⢷⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⠋⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣷⣤⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣆⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢀⣀⡤⠴⠚⠋⠉⠈⠀⠀⠀⠀⠀⠠⠤⠤⣀⠈⣧⠈⠑⠢⢤⡀⠀⠀⠀⠀⠀⢀⡼⠙⡆⠀⠀⠀⡏⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠒⠛⠷⢶⣖⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢷⠀⠀⠀⠀⠙⢦⠀⠀⠀⢠⠞⠀⠀⡇⠀⠀⠀⡧⠴⠖⠒⢊⡡⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⣷⠆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⢠⠇⠀⠀⠀⠀⠀⣠⡾⠋⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣠⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⣴⣶⣿⣿⣿⣿⣿⣷⣦⣄⣌⠀⠀⠀⠀⢀⡴⠋⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢠⣾⣿⠟⣁⡄⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣦⣤⡟⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⣰⣿⠿⠒⡹⢋⠀⠀⠀⠀⢀⣀⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠚⠉⠀⢀⣴⣿⠃⢀⣠⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠚⢁⣧⣴⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢀⡾⠋⠀⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⣻⡿⡄⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠿⠋⠉⠛⠿⠛⠛⠛⠛⠿⠿⠿⠿⠿⢿⣿⣿⡟⠋⠉⠙⠛⠿⠿⠛⠋⠉⠁⠀⠠⣟⢠⡇⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡿⠐⠋⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⠀⠀⠀⠀⠀⠀⠀⠀⠈⡟⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣇⠀⠀⠘⡿⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠳⠶⠶⠖⢦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣆⢀⣾⠃⠀⠀⠀⠀⠀⠀⠀⢠⡿⠃⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠲⢤⣀⠀⣀⣀⣀⣀⣀⠤⡤⢬⡿⣥⣤⠤⠤⠴⡶⠶⠶⣶⡿⠤⣄⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⠖⠚⠋⠉⣩⠷⠀⠀⠀⡠⠞⣁⡞⢰⠋⢀⣠⠔⠋⢐⡪⠟⠉⡤⠀⡇⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⢠⢔⣿⠤⠊⢁⡤⠊⡠⠞⢱⠃⣧⠔⠋⢀⡠⠖⠉⣠⢔⡮⠚⣱⠇⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣶⡔⢉⡴⢊⠔⢉⠴⣫⠔⠊⣹⢸⢁⡠⠖⢉⡤⢒⠭⠂⣁⣤⡞⠁⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢈⣷⠀⠤⣤⣚⣑⣫⣔⣀⣈⣼⣼⠉⠴⢚⡥⠒⠃⢉⡩⠖⠁⡽⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠿⣇⡠⢀⠔⣫⠄⢀⣠⣄⣿⣼⡴⢚⡫⢁⡠⠔⠉⢠⠔⣼⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡾⢘⡥⡪⡴⠟⠉⡡⢊⠀⡿⣿⠉⠖⡩⣀⢴⠊⣁⠖⢼⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⢁⢔⢿⠾⣊⢔⡫⠖⠁⠀⡇⣿⣰⢟⡫⣊⢕⡊⢁⢔⡱⢿⡄⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠏⠺⠛⠁⠈⠀⠉⠀⠀⠀⠀⠷⠃⠒⠑⠋⠀⠈⠚⠁⠉⠀⠀⢷⠀⠀⠀⠀⠀⠀⠀⠀</pre>
+  </div>
+</foreignObject>
+<text x="390" y="30" fill="#c9d1d9">
+<tspan x="390" y="30">push10kar</tspan> --------------------------------------------------
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ..............................</tspan><tspan class="value">Fedora Linux, Windows 11</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ....................... </tspan><tspan class="value" id="age_data">20 years, 8 months, 4 days</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ......................................... </tspan><tspan class="value">Unemployed</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .......................................... </tspan><tspan class="value">Student</tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ......................................... </tspan><tspan class="value">VSCode, Vim</tspan>
+<tspan x="390" y="150" class="cc">. </tspan>
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">C, C++, Javascript</tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">HTML, CSS, JSON</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">English, Hindi, Marathi</tspan>
+<tspan x="390" y="230" class="cc">. </tspan>
+<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">Competitive Programming, Web Dev</tspan>
+<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">PC Building</tspan>
+<tspan x="390" y="310">- Contact</tspan> --------------------------------------------------
+<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">pushkargavade@gmail.com</tspan>
+
+<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">X</tspan>:<tspan class="cc"> ........................................ </tspan><tspan class="value">@pushkargavade</tspan>
+<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">pushkargavade</tspan>
+<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">-</tspan>
+<tspan x="390" y="430">- Coding Profiles</tspan> ------------------------------------------
+<tspan x="390" y="450" class="cc">. </tspan><tspan class="key">Codeforces</tspan>.<tspan class="key">handle</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">10ncha</tspan>
+<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">LeetCode</tspan>.<tspan class="key">handle</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">not10ncha</tspan>
+<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">CodeChef</tspan>.<tspan class="key">handle</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">pushkarten</tspan>
+
+</text>
+</svg>
